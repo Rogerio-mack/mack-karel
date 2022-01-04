@@ -1,7 +1,7 @@
 # mack-karel
 Mackenzie Karel - Based on Stanford Karel to Teach Basic Python Programming
 
-This is a simple draft project to build a Mackenzie Karel, based on Stanford Karel, write in Python to Teach Basic Programming and it can just using Colab environment. *Any ideia for this cool project?*
+**This is a simple draft project to build a Mackenzie Karel, based on Stanford Karel, write in Python to Teach Basic Programming and it can just using Colab environment.** *Any ideia for this cool project?*
 
 ### Useful resources for this project
 
@@ -10,7 +10,7 @@ This is a simple draft project to build a Mackenzie Karel, based on Stanford Kar
 * [Stanford Python Karel Code](https://github.com/TylerYep/stanfordkarel)
 * [Karel the Robot (Book)](https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html)
 * [Karel IDE](http://stanford.edu/~cpiech/karel/ide.html)
-* [Code in Place](https://codeinplace.stanford.edu/) The Stanford project: A free, human-centric, intro-to-coding course 
+* [Code in Place](https://codeinplace.stanford.edu/)*The Stanford project: A free, human-centric, intro-to-coding course* 
 
 #### Code resources
 
