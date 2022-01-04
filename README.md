@@ -10,7 +10,7 @@ Mackenzie Karel - Based on Stanford Karel to Teach Basic Python Programming
 * [Stanford Python Karel Code](https://github.com/TylerYep/stanfordkarel)
 * [Karel the Robot (Book)](https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html)
 * [Karel IDE](http://stanford.edu/~cpiech/karel/ide.html)
-* [Code in Place](https://codeinplace.stanford.edu/)*The Stanford project: A free, human-centric, intro-to-coding course* 
+* [Code in Place](https://codeinplace.stanford.edu/) *The Stanford project: A free, human-centric, intro-to-coding course* 
 
 #### Code resources
 
@@ -26,4 +26,4 @@ Mackenzie Karel - Based on Stanford Karel to Teach Basic Python Programming
 * [edublocks to Learn Phython](https://app.edublocks.org/editor)
 * [Python Tutor](https://pythontutor.com/)
 * [Good Python Introduction](https://swc-osg-workshop.github.io/2017-05-17-JLAB/index.html)
-* [My own Python Introduction](https://github.com/Rogerio-mack/Introducao_Python_I)
+* [My own Python Introduction](https://github.com/Rogerio-mack/Introducao_Python_I) *including ipythonblocks*
