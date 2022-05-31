@@ -18,5 +18,6 @@
 | 13 | Word Cloud | Buscando Palavras mais Comuns em um Texto: *Dom Casmurro*  | Python dict, Loops  | [Guttenberg](https://www.gutenberg.org/) |
 | 14 | Linear Regression | Prevendo o volume útil da Represa Guarapiranga  | Spicy | [Sabesp](https://mananciais.sabesp.com.br/Situacao) |
 | **Projetos Complementares** |-|-|-|-|
+| * | Imagem | Estimando a Área em um Mapa | - | - |
 | * | Aquisição de Dados de Controladores ou IoT | Detecção de Falhas: Aumento Temperatura | - | - |
 | * | Robots | Virtual Robot | - | - |
